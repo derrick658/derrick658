@@ -11,7 +11,7 @@
 
 Yesterday you said tomorrow. 
 
-- :pencil: [Blog](https://github.com/derrick658/derrick658.github.io)
+- :pencil: [Blog](https://derrick658.github.io)
 - :running: [Runngin](https://github.com/derrick658/running_page)
 - :book:[Books](https://github.com/derrick658/read-books)
 - :cat: [Github](https://github.com/derrick658)
