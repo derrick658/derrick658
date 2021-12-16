@@ -1,6 +1,7 @@
 
-### derrick658 <img align="right" width="200px" src="https://github-readme-stats.vercel.app/api?username=derrick658&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### derrick658 <img align="right" src="https://github-readme-stats.vercel.app/api?username=derrick658&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=hacker233.readme)
 😄 你好~ 我是大风起兮云飞扬，生活工作在[西安](https://en.wikipedia.org/wiki/Xi%27an)。
 喜爱爬山，跑步，[读书](https://github.com/derrick658/read-books)，编程。
 项目大多和这些相关。
